@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+
+# React build output
+/build
+
+# Local environment variables
+.env
+
+# IDE and editor settings
+.vscode/
+*.log
+.DS_Store
+
+# MacOS
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm
